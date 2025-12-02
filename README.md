@@ -34,7 +34,7 @@ Criação de formulários estilizados
 Harmonização de paleta de cores
 Construção de uma interface limpa e objetiva
 
-Melhorias futuras
+- Melhorias futuras -
 
 Adicionar validação de formulário
 Criar versão dark mode
